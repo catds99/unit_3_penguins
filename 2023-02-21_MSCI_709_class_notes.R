@@ -179,7 +179,7 @@ penguins %>%
 #now the r values are for each species individually and for all species added together (all of them together is not a good thing to have scientifically bc why would we not group by species, but weh ave it anyway)
 #note that differences in correlations aren't necessarily indicative of biologically relevant differences, could be a methods problem like more data for one species)
 
-
+ 
 
 
 
